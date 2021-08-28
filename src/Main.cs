@@ -16,7 +16,7 @@ namespace IPRead
     {
         static void Main(string[] args)
         {
-            Console.Title = "IPReadtest"
+            Console.Title = "IPRead"
             Console.SetWindowSize(50, 35);
             GetData();
         }
